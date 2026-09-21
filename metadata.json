@@ -1,0 +1,6 @@
+{
+  "name": "Yamilka Batista HGW Latinoamerica",
+  "description": "Tienda y catálogo oficial de productos Health Green World (HGW) por Yamilka Batista, Asesor Independiente en Latinoamérica. Cafés funcionales, turmalina, cuidado personal y suplementos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
